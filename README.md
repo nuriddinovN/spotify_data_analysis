@@ -24,7 +24,4 @@ This project explores my **Spotify listening history** using data exported from 
 📌 Analyzed changes in **music taste over time**  
 
 ## How to Use  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/nuriddinovN/spotify-data-analysis.git
-   cd spotify-data-analysis
+**HOW EVER IT IS NOT COMPLETED YET I WANT TO BUILD PERSONAL MUSIC RECOMMENDATION SYSTEM BY USING THAT DATA  📊 🎵 ** 
