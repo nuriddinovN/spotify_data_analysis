@@ -24,4 +24,4 @@ This project explores my **Spotify listening history** using data exported from 
 📌 Analyzed changes in **music taste over time**  
 
 ## How to Use  
-**HOW EVER IT IS NOT COMPLETED YET I WANT TO BUILD PERSONAL MUSIC RECOMMENDATION SYSTEM BY USING THAT DATA  📊 🎵 ** 
+HOW EVER IT IS NOT COMPLETED YET I WANT TO BUILD PERSONAL MUSIC RECOMMENDATION SYSTEM BY USING THAT DATA  📊 🎵 
